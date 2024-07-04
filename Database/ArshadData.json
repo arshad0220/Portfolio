@@ -2,7 +2,7 @@
     {
         "id": 1,
         "info": "Summary",
-        "description": "My name is Arshad Ahamed Experienced technical support engineer proficient in AI chatbot utilization for issue resolution and adept at maintaining comprehensive data on resolved issues."
+        "description": "My name is Arshad Ahamed. Experienced technical support engineer proficient in AI chatbot utilization for issue resolution and adept at maintaining comprehensive data on resolved issues."
     },
     {
         "id": 2,
@@ -70,7 +70,7 @@
     {
         "id": 5,
         "info": "Tools",
-        "description": "Zendesk (with Answer Bot), Microsoft Dynamics CRM, Microsoft 365, Power BI, Power Automate, Python Script, MySQL, Google Docs, Command line windows and Open AI API."
+        "description": "Zendesk (with Answer Bot), Microsoft Dynamics CRM, Microsoft 365, Power BI, Power Automate, Python Script, MySQL, Google Docs, Command line windows and OpenAI API."
     },
     {
         "id": 6,
@@ -99,5 +99,27 @@
             "Building Systems with the ChatGPT API",
             "ChatGPT prompt engineering for developers"
         ]
+    },
+    {
+        "id": 9,
+        "info": {
+            "agent_name": "Alex",
+            "customer_name": "Mia Thompson",
+            "lines_requested": 3,
+            "plan": {
+                "name": "AT&T Unlimited Extra",
+                "price_per_line": 75.99,
+                "total_price": 227.97,
+                "fees_taxes": "additional",
+                "activation_fee": 35,
+                "features": {
+                    "unlimited_data": true,
+                    "priority_data_limit_gb": 75,
+                    "hotspot_data_gb": 30,
+                    "throttling": "After 75GB, AT&T may temporarily slow your speed if the network is busy."
+                }
+            }
+        },
+        "description": "The customer Mia Thompson inquired about the cost of 3 new lines with AT&T. The agent Alex provided details of the AT&T Unlimited Extra plan, including unlimited data with 75GB priority data and 30GB mobile hotspot data per month. The plan costs $75.99 per line, totaling $227.97 for 3 lines, plus fees and taxes. There is also an activation fee of $35 USD. Mia plans to activate the plan through the myAT&T app."
     }
 ]
