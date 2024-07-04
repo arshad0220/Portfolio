@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "info": "Summary",
+        "description": "My name is Arshad Ahamed Experienced technical support engineer proficient in AI chatbot utilization for issue resolution and adept at maintaining comprehensive data on resolved issues."
+    },
+    {
+        "id": 2,
+        "info": "Educational Details",
+        "description": [
+            {
+                "degree": "S.S.L.C",
+                "institution": "St. Anns High School, Hutti",
+                "year": "2013-2014",
+                "percentage": "67.52%"
+            },
+            {
+                "degree": "P.U.C (Science)",
+                "institution": "Sir. M. Visveswaraya P.U Science College, Lingsugur",
+                "year": "2015-2016",
+                "percentage": "69.00%"
+            },
+            {
+                "degree": "B.E (Computer Science)",
+                "institution": "SJB Institute of Technology Bangalore",
+                "year": "2021-2022",
+                "cgpa": "5.50/10.00"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "info": "Work Experience",
+        "description": [
+            {
+                "company": "Fresh One Holdings LLC",
+                "designation": "Technical support engineer (Freelancer)",
+                "period": "November 2022 – Jan 2024 (1 Year – 2 Months)"
+            },
+            {
+                "company": "Soudagar Traders",
+                "designation": "Technical support engineer",
+                "period": "August 2022 – Jan 2024 (1 Year – 7 Months)"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "info": "Projects",
+        "description": [
+            {
+                "company": "Fresh One Holdings LLC",
+                "projects": [
+                    "Implemented AI-driven technical support solution using Zendesk with Answer Bot integration.",
+                    "Enhanced chatbot performance and accuracy through Python scripting.",
+                    "Maintained MySQL database of resolved issues for future analysis and improvement."
+                ]
+            },
+            {
+                "company": "Soudagar Traders",
+                "projects": [
+                    "Led integration of Microsoft Dynamics CRM with AI chatbot functionalities.",
+                    "Utilized Power BI and Power Automate for support data analysis.",
+                    "Implemented Google Docs for collaborative documentation.",
+                    "Utilized OpenAI API for advanced language processing in issue resolution."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "info": "Tools",
+        "description": "Zendesk (with Answer Bot), Microsoft Dynamics CRM, Microsoft 365, Power BI, Power Automate, Python Script, MySQL, Google Docs, Command line windows and Open AI API."
+    },
+    {
+        "id": 6,
+        "info": "Technical Skills",
+        "description": [
+            "Troubleshoot technical issues reported by users through AI chatbots, providing timely and effective resolutions.",
+            "Utilize AI tools to continuously improve chatbot performance and accuracy in understanding user queries.",
+            "Maintain and update databases with detailed records of resolved issues, contributing to data-driven insights for future improvements.",
+            "Collaborate with cross-functional teams to integrate AI chatbot functionalities into existing support systems.",
+            "Provide training and support to users and colleagues on utilizing AI chatbots effectively for issue resolution and data management."
+        ]
+    },
+    {
+        "id": 7,
+        "info": "Soft Skills",
+        "description": [
+            "Strong problem-solving abilities to efficiently diagnose and address issues, often under time constraints.",
+            "Patience and empathy in dealing with frustrated or confused users, ensuring a positive support experience.",
+            "Adaptability to quickly learn and adapt to new technologies and tools in a fast-paced technical environment."
+        ]
+    },
+    {
+        "id": 8,
+        "info": "Certifications",
+        "description": [
+            "Building Systems with the ChatGPT API",
+            "ChatGPT prompt engineering for developers"
+        ]
+    }
+]
